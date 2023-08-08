@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2srishivam2206.
+- 👋 Hi, I’m @srishivam2206.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on web development communities ,forums,or platforms like GitHub to find potential collaborators.
